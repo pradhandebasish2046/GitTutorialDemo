@@ -1,1 +1,2 @@
-hello
+Hii
+How to skip stagging area
